@@ -1,0 +1,108 @@
+{
+  "main": {
+    "id": "9600a51bc184299b",
+    "type": "split",
+    "children": [
+      {
+        "id": "fdf9cdb38824ec4d",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "A. Zettelkasten Work Flow.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d0951a0ec96375a6",
+    "type": "split",
+    "children": [
+      {
+        "id": "d43e8e761a2d820b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c0847a51d2cb8b18",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "1bb35ddabf9cea42",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "6a7ea8756e1f3905",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3cf3c6ba3b66a7dd",
+    "type": "split",
+    "children": [
+      {
+        "id": "349ebc7c06d591ed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cf6fd9f615de8807",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "A. Zettelkasten Work Flow.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "lastOpenFiles": [
+    "A. Zettelkasten Work Flow.md",
+    "Daily Notes/2021-03-08 Monday.md",
+    "Literature Notes.md",
+    "Fleeting Notes.md",
+    "Evergreen Notes.md",
+    "Video Ideas.md",
+    "Resonance Calendar.md",
+    "Templates/Resonance Calendar Template.md",
+    "Templates/Evergreen Notes Template.md",
+    "Untitled 1.md"
+  ]
+}

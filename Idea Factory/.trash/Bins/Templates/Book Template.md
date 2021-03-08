@@ -1,0 +1,4 @@
+- Metadata:
+	- Tags: #Source/Book
+	- Date Published: 
+	- People: [[]]
